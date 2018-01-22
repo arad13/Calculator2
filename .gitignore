@@ -1,0 +1,8 @@
+
+*.lock
+*.ide-shm
+*.ide-wal
+Calculator/.vs/Calculator/v15/Server/sqlite3/storage.ide-shm
+Calculator/.vs/Calculator/v15/Server/sqlite3/storage.ide-wal
+Calculator/.vs/config/applicationhost.config
+Calculator/Calculator/obj/Debug/Calculator.csproj.CoreCompileInputs.cache
